@@ -1,17 +1,17 @@
 
-{"Version":"1.2",
+{"Version":"1.3",
 
 "Url":"https://github.com/contrabrand/twk/raw/main/TT.zip" ,
 
 "Changelog":"  
 
   🙏 ยินดีต้อนรับเข้าสู่แอพ​ TwinkleTunneling​ 🙏
-               By NayuTech 
+              By NayuTech 
              เร็ว  นิ่ง​  ปลอดภัย
   
 
 ✅วันที่อัปเดท 
- 14/02/2022
+ 17/02/2022
 
 ✅เพิ่ม​ไฟล์​ : IN/JP/KR/NL/SG/TH/US
 ✅เซิฟเวอร์​ : 🇸🇬 🇹🇭  🇺🇸  🇯🇵 🇰🇷 🇮🇳 🇳🇱
@@ -41,6 +41,8 @@
  - ไม่มีโปร
 
 ✅ สนใจเช่าติดต่อแอดมิน​ LINE​: yallaaaj
+
+ขอบคุณที่ใช้งานแอปของเรา
 
 ",
 
